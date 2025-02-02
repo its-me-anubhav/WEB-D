@@ -1,0 +1,28 @@
+.navbar{
+    background-color: bisque;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    /* this is used to remove the list dotes  */
+    list-style-type: none; 
+    /* background-color: rgb(231, 234, 233); */
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color: rgb(8, 72, 72);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(141, 90, 15);
+    justify-content: center;
+}

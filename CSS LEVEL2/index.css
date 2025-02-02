@@ -1,0 +1,27 @@
+div{
+    background-color: rgb(238, 255, 0);
+    /* thia is used for the height  */
+    height: 100px;
+    /* this is used for the width  */
+    width: 300px;
+    /* for the border  */
+    border-width: 5px;
+    border-style: solid;
+    border-color: aqua;
+    text-align:start;
+}
+h1{
+    /* this property is used for border one line  */
+    border: 5px double rgb(12, 11, 11);
+    /* border radious is used in two types px and % is used for 
+    the square circle when the height and width should be same  */
+    border-radius: 10px;
+
+    background-color:brown;
+    text-align: center;
+}
+button{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}

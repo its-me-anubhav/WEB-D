@@ -1,0 +1,51 @@
+#container{
+    height: 300px;
+    width: 700px;
+    display: flex;
+    /* flexbox property is used for containers */
+    flex-direction: row;  
+    /* is used for the shift the arrangement */
+    justify-content: center;
+    /* flex-wrap: wrap; */
+    /* align is used to fix the box into centre */
+    align-items: flex-start;
+    /* all content we will set in the any area */
+    /* align-content: start; */
+    
+}
+body{
+    text-align: center;
+}
+div{
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#box1{
+    background-color: blue;
+    flex-grow: 1;
+}
+#box2{
+    background-color: rgb(0, 255, 162); 
+    height: 200px;
+    /* align-self: flex-end; */
+
+    /* flex shink is used for the shink the box fast in comparison to other box  */
+    /* flex-shrink: 0.5; */
+
+    flex-grow: 2;
+}
+#box3{
+    background-color: rgb(179, 255, 0);
+    height: 20px;
+}
+#box4{
+    background-color: rgb(255, 0, 208);
+}
+#box5{
+    background-color: rgb(255, 0, 0); 
+}
+
+
+

@@ -1,0 +1,29 @@
+#one{
+    /* used for where text start  */
+    text-align: left ;
+    /* used for the type of text  */
+    font-family: Arial;
+}
+#two{
+     
+    text-align: left;
+    /* forn text type */
+    font-family: cursive;
+    /* this is used for the line hight  */
+    line-height: 20px;
+}
+#three{
+    /* this id used for the text size */
+    font-size: 16px;
+    
+}
+#four{
+    /* line space property for gap between line  */
+    line-height:normal;
+    /* used to change text  */
+    text-transform:capitalize
+}
+#h1{
+    /* used for text sixe lighter or bolder  */
+font-weight: bolder;
+}

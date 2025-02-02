@@ -1,0 +1,28 @@
+h1{
+    /* for the backgrond color we use this  */
+    background-color: rgb(135, 66, 5);
+/* for the front color we use this  */
+    color: blueviolet;
+}
+h2{
+    background-color:rgb(162, 51, 64) ;
+    color: aqua;
+}
+button{
+    background-color: rgb(171, 168, 166);
+    color: rgb(5, 7, 5);
+}
+body{
+    background-color: rgb(161, 164, 118);
+}
+
+/* for any id if id is used fo any element but this is bad programming technique*/
+#Heading1{
+    background-color: rgb(136, 78, 78);
+    color: rgb(37, 11, 107);
+}
+/* for the many lines or paragrapg color we use class */
+.myclass{
+    color: rgb(255, 0, 187);
+    background-color: bisque;
+}

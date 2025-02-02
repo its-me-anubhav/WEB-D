@@ -1,0 +1,19 @@
+/* when we use class for the background color */
+.box{
+    background-color: blue;
+}
+
+/* when we use id for the background color */
+#box{
+    background-color: blueviolet;
+}
+/* For Question 2 */
+.heading {
+    color: red;
+}
+
+/* Que-3 */
+button{
+    /* this is used for the bitton color but higher priority will provide answer */
+    background-color: green;
+}

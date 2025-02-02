@@ -1,0 +1,28 @@
+#one{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(255,0,0,0.2);
+    margin: 50px;
+    padding: 25px;
+    display: inline-block;
+}
+#two{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255,0,0,0.5);
+    margin: 50px;
+    padding: 25px;
+    display: inline-block;
+     /* visibility hidden is used to hide the any thing  */
+    /* visibility: hidden; */
+}
+#three{
+    height: 100px;
+    width: 100px;
+    background-color: rgba(255,0,0,0.9);
+    margin: 50px;
+    padding: 25px;
+    display: inline-block;
+
+
+}

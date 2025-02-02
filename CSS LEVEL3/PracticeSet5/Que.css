@@ -1,0 +1,13 @@
+p{
+    font-size:xx-large;
+}
+#one{
+    height: 200px;
+    width: 200px;
+    border: 3px double black;
+    background-image: url("backImage.jpg.jpg");
+    background-size: cover;
+    position: fixed;
+    right: 0px;
+    top: 5px;
+}

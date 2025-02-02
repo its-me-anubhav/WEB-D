@@ -1,0 +1,29 @@
+#box1{
+    height: 100px;
+    width: 300px;
+    background-color: green;
+    /* parents font size  */
+    font-size: 20px;
+}
+#box2{
+    height: 50px;
+    /* % is used to parents percentage is childs percentage  */
+    width: 50%;
+    background-color: yellow;
+    margin-left: 10%;
+    /* two times of parents font size  */
+    font-size: 2em;
+    /* width will change fontsize * width 20*5   */
+    width: 5em;
+    /* depend on root element  */
+     width: 5rem;
+     /* depend on browser height  */
+
+     /* height: 20vh; */
+
+     /* depend on brower width  */
+     
+     /* width: 40vw; */
+
+    
+}

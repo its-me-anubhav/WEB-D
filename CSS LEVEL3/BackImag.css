@@ -1,0 +1,9 @@
+#one{
+    height: 200px;
+    width: 200px;
+    border: 2px double red;
+    /* add background image  */
+    background-image: url("backImage.jpg.jpg");
+    /* add background image size  */
+    background-size: cover;
+}

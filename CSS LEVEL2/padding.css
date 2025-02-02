@@ -1,0 +1,18 @@
+#one{
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    font-family: cursive;
+    color: blueviolet;
+    background-color: aqua;
+    border: 2px double brown;
+    padding: 2px 3px 4px 5px;
+    margin: 4px 5px 7px 9px;
+}
+#two{
+    border: 3px double red;
+    margin: 50px;
+    padding: 40px;
+
+
+}
